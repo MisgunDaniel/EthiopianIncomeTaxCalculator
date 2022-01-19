@@ -1,0 +1,31 @@
+p{
+    text-align: left;
+}
+#gross_salary {
+    color: black;
+    font-weight: bold;
+}
+#net_salary {
+    color: green;
+    font-weight: bold;
+}
+#new_salary {
+    color: black;
+    font-weight: bold;
+}
+#increase{
+    color: rgb(136, 255, 0);
+    font-weight: bold;
+}
+#old {
+    color: brown;
+    font-weight: bold;
+}
+#income_tax {
+    color: red;
+    font-weight: bold;
+}
+#pension {
+    color: blue;
+    font-weight: bold;
+}
